@@ -19,5 +19,6 @@ The project explores cooperative control strategies for achieving stable and ada
 
 📄 Technical documentation
 
-Stay tuned for updates!
+Repository Status
+This is an ongoing research project. Currently, only the demonstration video is available. Technical details, source files, and other supporting materials will be released upon the publication of the associated research paper.
 
