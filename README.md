@@ -5,7 +5,7 @@ This is an ongoing research/project focused on designing and implementing contro
 
 🚧 Project Status
 ⏳ This project is currently in development.
-Simulation files, results, and source code will be made publicly available upon completion.
+Simulation files, results, and source code will be made publicly available upon publishing the research work.
 
 📌 Overview
 The project explores cooperative control strategies for achieving stable and adaptive formations in multi-agent robotic systems. Potential applications include swarm robotics, cooperative exploration, and automated transport systems.
